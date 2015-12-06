@@ -15,7 +15,13 @@ Links for docker articles, tutorials and other things I want to try
 
 [mvanholsteijn/strip-docker-image](https://github.com/mvanholsteijn/strip-docker-image)
 
+## Docker on Vagrant
 
+[Docker - Provisioning - Vagrant Documentation](http://docs.vagrantup.com/v2/provisioning/docker.html)
+
+[Configuration- Docker Provider - Vagrant Documentation](https://docs.vagrantup.com/v2/docker/configuration.html)
+
+[vagrant-docker-compose](https://github.com/leighmcculloch/vagrant-docker-compose)
 
 ## Docker Machine
 
@@ -24,3 +30,11 @@ Links for docker articles, tutorials and other things I want to try
 [Docker Machine Guide (VirtualBox on Mac OS X) - waterlink blog](http://waterlink.github.io/blog/2015/08/31/docker-machine-guide-virtualbox-mac-os-x/)
 
 [Django Development with Docker Compose and Machine - Real Python](https://realpython.com/blog/python/django-development-with-docker-compose-and-machine/)
+
+## Docker Swarm
+
+[Docker Swarm](http://docs.docker.com/swarm/)
+
+[docker/swarm](https://github.com/docker/swarm/)
+
+
