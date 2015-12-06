@@ -15,6 +15,8 @@ Links for docker articles, tutorials and other things I want to try
 
 [mvanholsteijn/strip-docker-image](https://github.com/mvanholsteijn/strip-docker-image)
 
+[Squashing Docker images with Btrfs](http://kamalmarhubi.com/blog/2015/11/27/squashing-docker-images-with-btrfs/)
+
 ## Docker on Vagrant
 
 [Docker - Provisioning - Vagrant Documentation](http://docs.vagrantup.com/v2/provisioning/docker.html)
